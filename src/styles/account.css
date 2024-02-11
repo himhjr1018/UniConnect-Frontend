@@ -1,0 +1,26 @@
+
+div.outlookConnect{
+    height:3rem;
+    width: 10rem;
+    border: 1px solid #3B569B;
+    background-color: white;
+    border-radius: 10px;
+    margin:2%;
+    padding:0.5rem;
+    display: flex;
+    vertical-align: center;
+    cursor:pointer;
+}
+
+img.outlook{
+    height:50px;
+    width: 100px;
+    flex:1;
+}
+
+span.outlook{
+    margin:7%;
+    flex:1;
+    font-weight: 600;
+    font-size: 1.3rem;
+}
